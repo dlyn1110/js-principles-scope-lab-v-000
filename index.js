@@ -1,2 +1,4 @@
 // Write your solution in this file!
- function customerName(bob) ;
+ customerName = 'bob';
+
+ function customerName();
